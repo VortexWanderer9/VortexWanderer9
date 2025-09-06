@@ -1,5 +1,5 @@
-<h1 align="center">Yeah! VortexWanderer9</h1>
-<h3 align="center">Exploere</h3>
+<h1 align="center">VortexWanderer9</h1>
+<h3 align="center">Watch and learn not perfect</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vortexwanderer9&label=Profile%20views&color=0e75b6&style=flat" alt="vortexwanderer9" /> </p>
 
