@@ -77,3 +77,77 @@
 ---
 
 > *"Build. Break. Learn. Repeat."*
+>
+> ██████████████████████████████████████████████████
+
+                        ELLIOT
+
+        Systems • Security • Intelligence
+
+     Build. Break. Learn. Repeat.
+
+██████████████████████████████████████████████████
+
+Current Focus
+
+→ Linux Internals
+→ Backend Systems
+→ AI Research
+→ Network Architecture
+→ Offensive Security
+→ Financial Markets
+
+──────────────────────────────────────────────────
+
+Selected Work
+
+[ Repository 01 ]
+One sentence.
+
+[ Repository 02 ]
+One sentence.
+
+[ Repository 03 ]
+One sentence.
+
+──────────────────────────────────────────────────
+
+Technology
+
+Icons only (no 50 badges)
+
+🐍 Python
+⚛ React
+▲ Next.js
+🐧 Linux
+🐳 Docker
+🔒 Security
+☁ Cloud
+
+──────────────────────────────────────────────────
+
+GitHub Analytics
+
+(two clean stat cards)
+
+──────────────────────────────────────────────────
+
+Currently Reading
+
+• Designing Data Intensive Applications
+
+Currently Building
+
+• ...
+
+Currently Learning
+
+• ...
+
+──────────────────────────────────────────────────
+
+Build.
+Break.
+Understand.
+
+██████████████████████████████████████████████████
