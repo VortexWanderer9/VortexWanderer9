@@ -1,153 +1,134 @@
-# ⚡ Tech Arsenal
+<div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+# ELLIOT
 
----
+### Systems • Security • Intelligence
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+*Learning by building. Understanding by breaking.*
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=18&pause=3000&color=666666&center=true&vCenter=true&width=700&lines=Linux+%E2%80%A2+Networking+%E2%80%A2+Backend+Engineering;Cybersecurity+%E2%80%A2+Artificial+Intelligence;Curiosity+is+my+favorite+operating+system." />
+
+</div>
 
 ---
 
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+# // WHO AM I
+
+I don't chase frameworks.
+
+I chase understanding.
+
+I'm fascinated by the invisible layers that power modern software—from Linux kernels and network protocols to backend systems, cybersecurity, artificial intelligence, and financial markets.
+
+Every repository here represents another step toward understanding how complex systems work.
+
+Not just **how to use them**.
+
+**Why they work.**
 
 ---
 
-### Cybersecurity & Linux
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004B87?style=for-the-badge&logo=gnometerminal&logoColor=white)
+# // CURRENT MISSION
+
+```text
+STATUS        ████████████████████ ONLINE
+
+FOCUS         Building backend systems
+
+LEARNING      Linux • Networking • AI
+
+RESEARCH      Security • Distributed Systems
+
+GOAL          Become impossible to ignore.
+```
 
 ---
 
-### AI / ML & Data
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+# // TECHNOLOGIES
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs)
+![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql)
+
+</div>
 
 ---
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+# // SELECTED WORK
+
+Instead of having 40 repositories...
+
+I prefer building a handful that teach me something new.
+
+Every project is an experiment.
+
+Every experiment becomes documentation.
+
+Every lesson becomes the next project.
 
 ---
 
-# 📈 GitHub Analytics
+# // GITHUB ANALYTICS
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VortexWanderer9&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VortexWanderer9&layout=compact&theme=transparent&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=VortexWanderer9&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VortexWanderer9&layout=compact&theme=transparent&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=VortexWanderer9&theme=transparent&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=VortexWanderer9&theme=transparent&hide_border=true"/>
+
 </p>
 
 ---
 
-# 🧠 Currently Exploring
+# // CURRENTLY EXPLORING
 
-- Linux Internals
-- Backend Architecture
-- Networking
-- Cybersecurity Labs
-- Artificial Intelligence
-- Machine Learning
-- Financial Market Analysis
+```
+◎ Linux Internals
+
+◎ Backend Architecture
+
+◎ Networking
+
+◎ Cybersecurity Labs
+
+◎ Artificial Intelligence
+
+◎ Machine Learning
+
+◎ Financial Markets
+```
 
 ---
 
-> *"Build. Break. Learn. Repeat."*
->
-> ██████████████████████████████████████████████████
+# // PHILOSOPHY
 
-                        ELLIOT
+> Build.
 
-        Systems • Security • Intelligence
+> Break.
 
-     Build. Break. Learn. Repeat.
+> Understand.
 
-██████████████████████████████████████████████████
+> Repeat.
 
-Current Focus
+---
 
-→ Linux Internals
-→ Backend Systems
-→ AI Research
-→ Network Architecture
-→ Offensive Security
-→ Financial Markets
+<div align="center">
 
-──────────────────────────────────────────────────
+### "Curiosity compounds."
 
-Selected Work
-
-[ Repository 01 ]
-One sentence.
-
-[ Repository 02 ]
-One sentence.
-
-[ Repository 03 ]
-One sentence.
-
-──────────────────────────────────────────────────
-
-Technology
-
-Icons only (no 50 badges)
-
-🐍 Python
-⚛ React
-▲ Next.js
-🐧 Linux
-🐳 Docker
-🔒 Security
-☁ Cloud
-
-──────────────────────────────────────────────────
-
-GitHub Analytics
-
-(two clean stat cards)
-
-──────────────────────────────────────────────────
-
-Currently Reading
-
-• Designing Data Intensive Applications
-
-Currently Building
-
-• ...
-
-Currently Learning
-
-• ...
-
-──────────────────────────────────────────────────
-
-Build.
-Break.
-Understand.
-
-██████████████████████████████████████████████████
+</div>
