@@ -46,18 +46,6 @@ GOAL          Become impossible to ignore.
 
 ---
 
-# // SELECTED WORK
-
-Instead of having 40 repositories...
-
-I prefer building a handful that teach me something new.
-
-Every project is an experiment.
-
-Every experiment becomes documentation.
-
-Every lesson becomes the next project.
-
 ---
 
 # // GITHUB ANALYTICS
