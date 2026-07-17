@@ -13,23 +13,6 @@
 </div>
 
 ---
-
-# // WHO AM I
-
-I don't chase frameworks.
-
-I chase understanding.
-
-I'm fascinated by the invisible layers that power modern software—from Linux kernels and network protocols to backend systems, cybersecurity, artificial intelligence, and financial markets.
-
-Every repository here represents another step toward understanding how complex systems work.
-
-Not just **how to use them**.
-
-**Why they work.**
-
----
-
 # // CURRENT MISSION
 
 ```text
