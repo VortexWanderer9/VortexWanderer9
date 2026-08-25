@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=18&pause=3000&color=666666&center=true&vCenter=true&width=700&lines=Linux+%E2%80%A2+Networking+%E2%80%A2+Backend+Engineering;Cybersecurity+%E2%80%A2+Artificial+Intelligence;Curiosity+is+my+favorite+operating+system." />
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=18&pause=3000&color=FF2E97&center=true&vCenter=true&width=700&lines=Linux+%E2%80%A2+Networking+%E2%80%A2+Backend+Engineering;Cybersecurity+%E2%80%A2+Artificial+Intelligence;Curiosity+is+my+favorite+operating+system." />
 
 </div>
 
@@ -30,14 +30,18 @@ GOAL        Become impossible to ignore.
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs)
-![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux)
-![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql)
+<img src="https://skillicons.dev/icons?i=py,ts,js,nextjs,react,cpp,linux,docker,git,nodejs,postgres,bash&theme=dark" />
+
+<br><br>
+
+![Python](https://img.shields.io/badge/Python-FF2E97?style=for-the-badge&logo=python&logoColor=0D0221)
+![TypeScript](https://img.shields.io/badge/TypeScript-00F0FF?style=for-the-badge&logo=typescript&logoColor=0D0221)
+![Next.js](https://img.shields.io/badge/Next.js-FF2E97?style=for-the-badge&logo=nextdotjs&logoColor=0D0221)
+![Linux](https://img.shields.io/badge/Linux-00F0FF?style=for-the-badge&logo=linux&logoColor=0D0221)
+![Docker](https://img.shields.io/badge/Docker-FF2E97?style=for-the-badge&logo=docker&logoColor=0D0221)
+![Git](https://img.shields.io/badge/Git-00F0FF?style=for-the-badge&logo=git&logoColor=0D0221)
+![Node.js](https://img.shields.io/badge/Node.js-FF2E97?style=for-the-badge&logo=nodedotjs&logoColor=0D0221)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00F0FF?style=for-the-badge&logo=postgresql&logoColor=0D0221)
 
 </div>
 
