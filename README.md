@@ -46,13 +46,63 @@ GOAL        Become impossible to ignore.
 ## // GITHUB ANALYTICS
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=VortexWanderer9&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=VortexWanderer9&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&count_private=true"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VortexWanderer9&layout=compact&theme=transparent&hide_border=true"/>
 </p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=VortexWanderer9&theme=transparent&hide_border=true"/>
 </p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VortexWanderer9&theme=minimal&hide_border=true&bg_color=ffffff00&color=666666&line=333333&point=111111" width="90%"/>
+</p>
+
+<br>
+
+## // FIELD NOTES
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+**World View — Humanity Observatory**
+Cinematic 3D globe data platform. Next.js 14, Three.js, real sourced datasets.
+
+</td>
+<td width="50%" valign="top">
+
+**Chronicles of Nepal**
+Historical knowledge graph, paubha-inspired design. Next.js, React Flow.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**learnix**
+In-browser Linux/Git/Docker/Vim learning engine — real shell, real simulators.
+
+</td>
+<td width="50%" valign="top">
+
+**Autonomous Software Factory**
+Multi-agent Python system, deterministic builders, cost-aware LLM router.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## // CONNECT
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VortexWanderer9)
+[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keshavniure99@gmail.com)
+
+</div>
 
 <br>
 
