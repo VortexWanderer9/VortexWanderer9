@@ -1,8 +1,8 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&height=200&color=0:1a1a1a,100:333333&text=ELLIOT&fontColor=ffffff&fontSize=70&fontAlignY=45&desc=Systems%20%E2%80%A2%20Security%20%E2%80%A2%20Intelligence&descAlignY=65&descColor=aaaaaa&descSize=18&animation=fadeIn" width="100%"/>
+</div>
 
-# ELLIOT
-
-### Systems • Security • Intelligence
+<div align="center">
 
 *Learning by building. Understanding by breaking.*
 
@@ -22,6 +22,18 @@ FOCUS       Building backend systems
 LEARNING    Linux • Networking • AI
 RESEARCH    Security • Distributed Systems
 GOAL        Become impossible to ignore.
+```
+
+<br>
+
+## Now
+
+```
+> Building backend systems in Node.js from first principles — TCP servers,
+  HTTP from scratch, port scanning, CLI tooling.
+> Writing security-adjacent Python — file integrity monitors, TLS-inspecting
+  proxies, AES encryption tools.
+> Preparing for a mathematics entrance exam on a tight timeline.
 ```
 
 <br>
@@ -74,6 +86,23 @@ Multi-agent Python system with a cost-aware LLM router.
 </td>
 </tr>
 </table>
+
+<br>
+
+## Snapshot
+
+| | |
+|---|---|
+| **Focus** | Backend systems, security tooling, distributed architecture |
+| **Stack** | Python · TypeScript · Node.js · Next.js · C++ |
+| **Environment** | Linux, daily driver |
+| **Approach** | Working implementations over scaffolds — no mock data where avoidable |
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VortexWanderer9&theme=grey&hide_border=true&bg_color=ffffff00&color=888888&line=555555&point=222222" width="90%"/>
+
+</div>
 
 <br>
 
