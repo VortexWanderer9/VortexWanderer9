@@ -14,7 +14,9 @@
 
 <br>
 
-## // CURRENT MISSION
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=70&section=header&text=CURRENT%20MISSION&fontSize=32&fontColor=00F0FF&fontAlignY=75" width="100%"/>
+</div>
 
 ```text
 STATUS      ████████████████████ ONLINE
@@ -26,7 +28,9 @@ GOAL        Become impossible to ignore.
 
 <br>
 
-## // TECHNOLOGIES
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=70&section=header&text=TECHNOLOGIES&fontSize=32&fontColor=FF2E97&fontAlignY=75" width="100%"/>
+</div>
 
 <div align="center">
 
@@ -47,51 +51,54 @@ GOAL        Become impossible to ignore.
 
 <br>
 
-## // GITHUB ANALYTICS
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=VortexWanderer9&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VortexWanderer9&layout=compact&theme=transparent&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=VortexWanderer9&theme=transparent&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VortexWanderer9&theme=minimal&hide_border=true&bg_color=ffffff00&color=666666&line=333333&point=111111" width="90%"/>
-</p>
-
 <br>
 
-## // FIELD NOTES
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=70&section=header&text=FIELD%20NOTES&fontSize=32&fontColor=00F0FF&fontAlignY=75&desc=selected%20builds&descAlignY=95&descSize=14&descColor=FF2E97&animation=fadeIn" width="100%"/>
+</div>
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**World View — Humanity Observatory**
-Cinematic 3D globe data platform. Next.js 14, Three.js, real sourced datasets.
+<h3>🌐 World View</h3>
+<sub><i>Humanity Observatory</i></sub>
+
+Cinematic 3D globe data platform built on real, sourced datasets.
+
+`Next.js 14` `Three.js` `TypeScript`
 
 </td>
 <td width="50%" valign="top">
 
-**Chronicles of Nepal**
-Historical knowledge graph, paubha-inspired design. Next.js, React Flow.
+<h3>🏔️ Chronicles of Nepal</h3>
+<sub><i>Historical knowledge graph</i></sub>
+
+Paubha-inspired design language mapped onto an interactive React Flow graph.
+
+`Next.js` `React Flow` `TypeScript`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**learnix**
-In-browser Linux/Git/Docker/Vim learning engine — real shell, real simulators.
+<h3>🐧 learnix</h3>
+<sub><i>Systems learning engine</i></sub>
+
+In-browser Linux/Git/Docker/Vim environment — a real shell, real simulators, no smoke and mirrors.
+
+`JavaScript` `Node.js` `xterm.js`
 
 </td>
 <td width="50%" valign="top">
 
-**Autonomous Software Factory**
-Multi-agent Python system, deterministic builders, cost-aware LLM router.
+<h3>🤖 Autonomous Software Factory</h3>
+<sub><i>Multi-agent build system</i></sub>
+
+Deterministic template builders orchestrated by a cost-aware LLM router.
+
+`Python` `Groq` `Multi-Agent`
 
 </td>
 </tr>
@@ -99,32 +106,34 @@ Multi-agent Python system, deterministic builders, cost-aware LLM router.
 
 <br>
 
-## // CONNECT
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=70&section=header&text=CONNECT&fontSize=32&fontColor=FF2E97&fontAlignY=75" width="100%"/>
+</div>
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VortexWanderer9)
-[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keshavniure99@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-FF2E97?style=for-the-badge&logo=github&logoColor=0D0221)](https://github.com/VortexWanderer9)
+[![Email](https://img.shields.io/badge/Email-00F0FF?style=for-the-badge&logo=gmail&logoColor=0D0221)](mailto:keshavniure99@gmail.com)
 
 </div>
 
 <br>
 
-## // CURRENTLY EXPLORING
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=70&section=header&text=CURRENTLY%20EXPLORING&fontSize=32&fontColor=00F0FF&fontAlignY=75" width="100%"/>
+</div>
 
-```
-◎ Linux Internals
-◎ Backend Architecture
-◎ Networking
-◎ Cybersecurity Labs
-◎ Artificial Intelligence
-◎ Machine Learning
-◎ Financial Markets
-```
+<div align="center">
+
+`Linux Internals` `Backend Architecture` `Networking` `Cybersecurity Labs` `Artificial Intelligence` `Machine Learning` `Financial Markets`
+
+</div>
 
 <br>
 
-## // PHILOSOPHY
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=70&section=header&text=PHILOSOPHY&fontSize=32&fontColor=FF2E97&fontAlignY=75" width="100%"/>
+</div>
 
 > Build.
 > Break.
