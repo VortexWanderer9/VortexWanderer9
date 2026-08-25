@@ -8,15 +8,13 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=18&pause=3000&color=FF2E97&center=true&vCenter=true&width=700&lines=Linux+%E2%80%A2+Networking+%E2%80%A2+Backend+Engineering;Cybersecurity+%E2%80%A2+Artificial+Intelligence;Curiosity+is+my+favorite+operating+system." />
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=18&pause=3000&color=888888&center=true&vCenter=true&width=700&lines=Linux+%E2%80%A2+Networking+%E2%80%A2+Backend+Engineering;Cybersecurity+%E2%80%A2+Artificial+Intelligence;Curiosity+is+my+favorite+operating+system." />
 
 </div>
 
 <br>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=70&section=header&text=CURRENT%20MISSION&fontSize=32&fontColor=00F0FF&fontAlignY=75" width="100%"/>
-</div>
+## Current Mission
 
 ```text
 STATUS      ████████████████████ ONLINE
@@ -28,54 +26,33 @@ GOAL        Become impossible to ignore.
 
 <br>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=70&section=header&text=TECHNOLOGIES&fontSize=32&fontColor=FF2E97&fontAlignY=75" width="100%"/>
-</div>
+## Technologies
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=py,ts,js,nextjs,react,cpp,linux,docker,git,nodejs,postgres,bash&theme=dark" />
 
-<br><br>
-
-![Python](https://img.shields.io/badge/Python-FF2E97?style=for-the-badge&logo=python&logoColor=0D0221)
-![TypeScript](https://img.shields.io/badge/TypeScript-00F0FF?style=for-the-badge&logo=typescript&logoColor=0D0221)
-![Next.js](https://img.shields.io/badge/Next.js-FF2E97?style=for-the-badge&logo=nextdotjs&logoColor=0D0221)
-![Linux](https://img.shields.io/badge/Linux-00F0FF?style=for-the-badge&logo=linux&logoColor=0D0221)
-![Docker](https://img.shields.io/badge/Docker-FF2E97?style=for-the-badge&logo=docker&logoColor=0D0221)
-![Git](https://img.shields.io/badge/Git-00F0FF?style=for-the-badge&logo=git&logoColor=0D0221)
-![Node.js](https://img.shields.io/badge/Node.js-FF2E97?style=for-the-badge&logo=nodedotjs&logoColor=0D0221)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00F0FF?style=for-the-badge&logo=postgresql&logoColor=0D0221)
-
 </div>
 
 <br>
 
-<br>
+## Field Notes
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=70&section=header&text=FIELD%20NOTES&fontSize=32&fontColor=00F0FF&fontAlignY=75&desc=selected%20builds&descAlignY=95&descSize=14&descColor=FF2E97&animation=fadeIn" width="100%"/>
-</div>
+Selected builds.
 
-<table align="center" width="100%">
+<table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🌐 World View</h3>
-<sub><i>Humanity Observatory</i></sub>
-
+**World View — Humanity Observatory**
 Cinematic 3D globe data platform built on real, sourced datasets.
-
 `Next.js 14` `Three.js` `TypeScript`
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🏔️ Chronicles of Nepal</h3>
-<sub><i>Historical knowledge graph</i></sub>
-
-Paubha-inspired design language mapped onto an interactive React Flow graph.
-
+**Chronicles of Nepal**
+Historical knowledge graph with a paubha-inspired design language.
 `Next.js` `React Flow` `TypeScript`
 
 </td>
@@ -83,21 +60,15 @@ Paubha-inspired design language mapped onto an interactive React Flow graph.
 <tr>
 <td width="50%" valign="top">
 
-<h3>🐧 learnix</h3>
-<sub><i>Systems learning engine</i></sub>
-
-In-browser Linux/Git/Docker/Vim environment — a real shell, real simulators, no smoke and mirrors.
-
-`JavaScript` `Node.js` `xterm.js`
+**learnix**
+In-browser Linux/Git/Docker/Vim learning engine — real shell, real simulators.
+`JavaScript` `Node.js`
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🤖 Autonomous Software Factory</h3>
-<sub><i>Multi-agent build system</i></sub>
-
-Deterministic template builders orchestrated by a cost-aware LLM router.
-
+**Autonomous Software Factory**
+Multi-agent Python system with a cost-aware LLM router.
 `Python` `Groq` `Multi-Agent`
 
 </td>
@@ -106,34 +77,28 @@ Deterministic template builders orchestrated by a cost-aware LLM router.
 
 <br>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=70&section=header&text=CONNECT&fontSize=32&fontColor=FF2E97&fontAlignY=75" width="100%"/>
-</div>
+## Connect
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-FF2E97?style=for-the-badge&logo=github&logoColor=0D0221)](https://github.com/VortexWanderer9)
-[![Email](https://img.shields.io/badge/Email-00F0FF?style=for-the-badge&logo=gmail&logoColor=0D0221)](mailto:keshavniure99@gmail.com)
-
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=70&section=header&text=CURRENTLY%20EXPLORING&fontSize=32&fontColor=00F0FF&fontAlignY=75" width="100%"/>
-</div>
-
-<div align="center">
-
-`Linux Internals` `Backend Architecture` `Networking` `Cybersecurity Labs` `Artificial Intelligence` `Machine Learning` `Financial Markets`
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VortexWanderer9)
+[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keshavniure99@gmail.com)
 
 </div>
 
 <br>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=70&section=header&text=PHILOSOPHY&fontSize=32&fontColor=FF2E97&fontAlignY=75" width="100%"/>
-</div>
+## Currently Exploring
+
+```
+Linux Internals · Backend Architecture · Networking
+Cybersecurity Labs · Artificial Intelligence
+Machine Learning · Financial Markets
+```
+
+<br>
+
+## Philosophy
 
 > Build.
 > Break.
@@ -144,6 +109,6 @@ Deterministic template builders orchestrated by a cost-aware LLM router.
 
 <div align="center">
 
-### "Curiosity compounds."
+**"Curiosity compounds."**
 
 </div>
