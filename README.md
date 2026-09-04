@@ -25,11 +25,8 @@
 
 <br>
 
-```
-┌───────────────────────┐
-│    CURRENT MISSION    │
-└───────────────────────┘
-```
+CURRENT MISSION
+────────────────
 
 ```text
 STATUS      ████████████████████ ONLINE
@@ -41,11 +38,8 @@ GOAL        Become impossible to ignore.
 
 <br>
 
-```
-┌────────────────────────┐
-│    GITHUB ANALYTICS    │
-└────────────────────────┘
-```
+GITHUB ANALYTICS
+──────────────────
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=VortexWanderer9&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&count_private=true&cache_seconds=86400"/>
@@ -58,31 +52,25 @@ GOAL        Become impossible to ignore.
 
 <br>
 
-```
-┌───────────────────────────┐
-│    CURRENTLY EXPLORING    │
-└───────────────────────────┘
-```
+CURRENTLY EXPLORING
+────────────────────
 
 ```
-◎ Linux Internals
-◎ Backend Architecture
-◎ Networking
-◎ Cybersecurity Labs
-◎ Artificial Intelligence
-◎ Machine Learning
-◎ Financial Markets
+▹ Linux Internals
+▹ Backend Architecture
+▹ Networking
+▹ Cybersecurity Labs
+▹ Artificial Intelligence
+▹ Machine Learning
+▹ Financial Markets
 ```
 
 <br>
 
 <div align="center">
 
-```
-┌──────────────────┐
-│    PHILOSOPHY    │
-└──────────────────┘
-```
+PHILOSOPHY
+────────────
 
 **Build. Break. Understand. Repeat.**
 
