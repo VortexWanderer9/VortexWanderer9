@@ -15,14 +15,17 @@ $ whoami
 
 <br>
 
-![Python](https://img.shields.io/badge/Python-1a1b26?style=for-the-badge&logo=python&logoColor=7aa2f7&labelColor=1a1b26)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1b26?style=for-the-badge&logo=javascript&logoColor=e0af68&labelColor=1a1b26)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1a1b26?style=for-the-badge&logo=typescript&logoColor=7aa2f7&labelColor=1a1b26)
-![Next.js](https://img.shields.io/badge/Next.js-1a1b26?style=for-the-badge&logo=nextdotjs&logoColor=c0caf5&labelColor=1a1b26)
+![C](https://img.shields.io/badge/C-1a1b26?style=for-the-badge&logo=c&logoColor=7aa2f7&labelColor=1a1b26)
+![C++](https://img.shields.io/badge/C++-1a1b26?style=for-the-badge&logo=cplusplus&logoColor=7aa2f7&labelColor=1a1b26)
+![React](https://img.shields.io/badge/React-1a1b26?style=for-the-badge&logo=react&logoColor=7dcfff&labelColor=1a1b26)
 ![Node.js](https://img.shields.io/badge/Node.js-1a1b26?style=for-the-badge&logo=nodedotjs&logoColor=9ece6a&labelColor=1a1b26)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1b26?style=for-the-badge&logo=postgresql&logoColor=7aa2f7&labelColor=1a1b26)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1b26?style=for-the-badge&logo=mongodb&logoColor=9ece6a&labelColor=1a1b26)
 ![Docker](https://img.shields.io/badge/Docker-1a1b26?style=for-the-badge&logo=docker&logoColor=7dcfff&labelColor=1a1b26)
-![Linux](https://img.shields.io/badge/Linux-1a1b26?style=for-the-badge&logo=linux&logoColor=e0af68&labelColor=1a1b26)
 ![Git](https://img.shields.io/badge/Git-1a1b26?style=for-the-badge&logo=git&logoColor=f7768e&labelColor=1a1b26)
+![GitHub](https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5&labelColor=1a1b26)
+![Linux](https://img.shields.io/badge/Linux-1a1b26?style=for-the-badge&logo=linux&logoColor=e0af68&labelColor=1a1b26)
 
 <br>
 
@@ -55,6 +58,10 @@ elliot@system:~$ ./fetch_stats.sh --user VortexWanderer9
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=VortexWanderer9&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&cache_seconds=1800"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VortexWanderer9&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
+
+```bash
+elliot@system:~$ # ↑ top-langs = most used languages across all repos, pulled live
+```
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=VortexWanderer9&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
