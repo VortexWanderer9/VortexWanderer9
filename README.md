@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:414868&height=180&section=header&text=ELLIOT&fontSize=60&fontColor=7aa2f7&fontAlignY=40&desc=Systems%20•%20Security%20•%20Intelligence&descAlignY=60&descColor=c0caf5&animation=fadeIn"/>
+# ELLIOT
+### Systems • Security • Intelligence
 
 ```
 $ whoami
@@ -98,7 +99,3 @@ elliot@system:~$ cat philosophy.md
 *"Curiosity compounds."*
 
 </div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:414868,50:24283b,100:1a1b26&height=100&section=footer"/>
