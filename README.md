@@ -60,18 +60,6 @@ elliot@system:~$ ./fetch_stats.sh --user VortexWanderer9
 elliot@system:~$ # ↑ top-langs = most used languages across all repos, pulled live
 ```
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=VortexWanderer9&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VortexWanderer9&theme=tokyo-night&hide_border=true" width="100%"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=VortexWanderer9&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-</p>
-
 <br>
 
 ```bash
