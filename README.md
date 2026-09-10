@@ -39,23 +39,11 @@ $ whoami
 
 <br>
 
-```bash
-elliot@system:~$ cat mission.txt
-```
-
-```text
-STATUS      ONLINE
-FOCUS       Building backend systems
-LEARNING    Linux • Networking • AI
-RESEARCH    Security • Distributed Systems
-GOAL        Become impossible to ignore.
-```
+<img src="./assets/terminal-mission.svg" width="100%" alt="mission.txt" />
 
 <br>
 
-```bash
-elliot@system:~$ ./fetch_stats.sh --user VortexWanderer9
-```
+<img src="./assets/terminal-fetch-stats.svg" width="100%" alt="fetch_stats.sh" />
 
 <div align="center">
 
@@ -64,15 +52,9 @@ elliot@system:~$ ./fetch_stats.sh --user VortexWanderer9
 
 </div>
 
-```bash
-elliot@system:~$ # ↑ top-langs = most used languages across all repos, pulled live
-```
-
 <br>
 
-```bash
-elliot@system:~$ ./streak_stats.sh
-```
+<img src="./assets/terminal-streak-stats.svg" width="100%" alt="streak_stats.sh" />
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=VortexWanderer9&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=e0af68&currStreakLabel=7aa2f7" />
@@ -80,81 +62,31 @@ elliot@system:~$ ./streak_stats.sh
 
 <br>
 
-```bash
-elliot@system:~$ ls ./featured_builds/
-```
-
-```
-⟶ learnix/                     in-browser Linux + Git + Docker + Vim engine, real virtual FS
-⟶ autonomous_software_factory/ multi-agent system, cost-aware LLM router, deterministic builders
-⟶ world_view/                  three.js globe, 5 live data layers, sourced FACT/ESTIMATE/PROJECTION
-⟶ cryptolock.py                AES-256-GCM + PBKDF2, custom binary container format
-⟶ sentinel.py                  SHA-256 file integrity monitor
-⟶ netprobe.js                  TCP scanner + DNS recon toolkit
-```
+<img src="./assets/terminal-featured-builds.svg" width="100%" alt="featured builds" />
 
 <br>
 
-```bash
-elliot@system:~$ cat security_labs.log
-```
-
-```text
-[MITM LAB]     HTTP Toolkit + Express, inspected live iOS app traffic
-[TLS LAB]      Local TLS-inspecting proxy, cert trust & pinning
-[WRITEUP]      Full README: TLS/HTTPS fundamentals, iOS cert trust, cert pinning
-```
+<img src="./assets/terminal-security-labs.svg" width="100%" alt="security labs" />
 
 <br>
 
-```bash
-elliot@system:~$ ls ./currently_building/
-```
-
-```
-⟶ chronicles_of_nepal/    historical knowledge platform — timeline + knowledge graph
-⟶ topup_dashboard/        transaction-tracking dashboard for a live game topup shop
-```
+<img src="./assets/terminal-currently-building.svg" width="100%" alt="currently building" />
 
 <br>
 
-```bash
-elliot@system:~$ ls ./currently_exploring/
-```
-
-```
-⟶ linux_internals/
-⟶ backend_architecture/
-⟶ networking/
-⟶ cybersecurity_labs/
-⟶ artificial_intelligence/
-⟶ machine_learning/
-⟶ financial_markets/
-```
+<img src="./assets/terminal-currently-exploring.svg" width="100%" alt="currently exploring" />
 
 <br>
 
-```bash
-elliot@system:~$ cat philosophy.md
-```
-
-<div align="center">
-
-**Build. Break. Understand. Repeat.**
-
-<br>
-
-*"Curiosity compounds."*
-
-</div>
+<img src="./assets/terminal-philosophy.svg" width="100%" alt="philosophy" />
 
 <br>
 
 <div align="center">
 
-```
-elliot@system:~$ echo "reach me"
-```
+<img src="./assets/terminal-reach.svg" width="100%" alt="reach me" />
+
+<br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5&labelColor=1a1b26)](https://github.com/VortexWanderer9)
 
