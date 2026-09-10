@@ -54,10 +54,7 @@ GOAL        Become impossible to ignore.
 elliot@system:~$ ./fetch_stats.sh --user VortexWanderer9
 ```
 
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=VortexWanderer9&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&cache_seconds=1800"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VortexWanderer9&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</p>
+
 
 ```bash
 elliot@system:~$ # ↑ top-langs = most used languages across all repos, pulled live
