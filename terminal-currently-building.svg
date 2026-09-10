@@ -1,0 +1,37 @@
+<svg width="780" height="166" viewBox="0 0 780 166" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="bg79504" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1a1b26"/>
+      <stop offset="100%" stop-color="#13141c"/>
+    </linearGradient>
+    <linearGradient id="border79504" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7aa2f7" stop-opacity="0.55"/>
+      <stop offset="50%" stop-color="#bb9af7" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#7dcfff" stop-opacity="0.45"/>
+    </linearGradient>
+    <linearGradient id="topbar79504" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#20222f"/>
+      <stop offset="100%" stop-color="#1a1b26"/>
+    </linearGradient>
+    <filter id="glow79504" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+<rect x="1" y="1" width="778" height="164" rx="14" fill="none" stroke="url(#border79504)" stroke-width="1.5" filter="url(#glow79504)"/>
+<rect x="2" y="2" width="776" height="162" rx="13" fill="url(#bg79504)" stroke="#292e42" stroke-width="1"/>
+<path d="M2 15 Q2 2 15 2 H765 Q778 2 778 15 V38 H2 Z" fill="url(#topbar79504)"/>
+<line x1="2" y1="38" x2="778" y2="38" stroke="#292e42" stroke-width="1"/>
+<circle cx="24" cy="20" r="6" fill="#f7768e"/>
+<circle cx="44" cy="20" r="6" fill="#e0af68"/>
+<circle cx="64" cy="20" r="6" fill="#9ece6a"/>
+<text x="390.0" y="24.5" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12.5" fill="#565f89" text-anchor="middle">elliot@system: ~</text>
+<text x="24" y="52" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="14.5" xml:space="preserve"><tspan fill="#9ece6a">elliot</tspan><tspan fill="#565f89">@</tspan><tspan fill="#9ece6a">system</tspan><tspan fill="#565f89">:</tspan><tspan fill="#7aa2f7">~</tspan><tspan fill="#f7768e">$ </tspan><tspan fill="#c0caf5">ls ./currently_building/</tspan></text>
+<text x="24" y="75" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="14.5" xml:space="preserve"></text>
+<text x="24" y="98" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="14.5" xml:space="preserve"><tspan fill="#7dcfff">⟶ </tspan><tspan fill="#c0caf5">chronicles_of_nepal/</tspan><tspan fill="#565f89">   historical knowledge platform — timeline + graph</tspan></text>
+<text x="24" y="121" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="14.5" xml:space="preserve"><tspan fill="#7dcfff">⟶ </tspan><tspan fill="#c0caf5">topup_dashboard/</tspan><tspan fill="#565f89">   transaction-tracking dashboard, live game topup shop</tspan></text>
+</svg>
