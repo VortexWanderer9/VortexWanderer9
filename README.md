@@ -90,5 +90,4 @@ $ whoami
 
 [![GitHub](https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5&labelColor=1a1b26)](https://github.com/VortexWanderer9)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VortexWanderer9&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=e0af68&currStreakLabel=7aa2f7)](https://git.io/streak-stats)
 </div>
