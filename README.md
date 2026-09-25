@@ -22,7 +22,7 @@ $ cat about.md
 ```
 
 I build systems and take them apart to understand how they work. My focus
-sits at the intersection of backend engineering and security — writing the
+sits at the intersection of backend engineering and security —writing the
 software, then thinking like the person trying to break it. Most of what I
 know came from shipping real things, reading source code, and debugging at
 2am.
@@ -37,36 +37,6 @@ $ cat stack.md
 **Backend**      Node.js · Next.js · PostgreSQL · MongoDB
 **Systems**      Linux · Docker · Git · Networking
 **Security**     Offensive tooling · Vulnerability research · Hardening
-
-<br>
-
-```
-$ ls builds/
-```
-
-**Chronicles of Nepal**
-A historical knowledge platform built around Nepal's history — an
-interactive timeline paired with a knowledge graph for exploring how
-events, people, and places connect. Next.js and TypeScript on the
-frontend, with the backend in progress.
-
-**Topup Shop Dashboard**
-A transaction-tracking dashboard for an online game top-up business —
-built to give real-time visibility into sales and transaction flow.
-React, Vite, and Tailwind.
-
-<br>
-
-```
-$ cat currently.md
-```
-
-**Building**    Backend infrastructure and dashboard tooling for ongoing
-                 projects, with an emphasis on clean, minimal, single-
-                 responsibility systems.
-**Exploring**    Multi-agent systems, security tooling, and how far
-                 backend architecture can stay simple without losing
-                 power.
 
 <br>
 
